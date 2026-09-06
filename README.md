@@ -31,7 +31,7 @@ I'm interested in collaborating on projects that:
 
 ## 📫 How to Reach Me
 - **GitHub**: [@vannarith10](https://github.com/vannarith10)
-- **Email**: Open an issue or discussion in my repositories
+- **Email**: [iamvannarith@gmail.com](mailto:iamvannarith@gmail.com)
 
 ## 😄 Pronouns
 He/Him
