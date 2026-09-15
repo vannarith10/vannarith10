@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fourth-year Computer Science student at the Royal University of Phnom Penh with a strong interest in software development and web application development. Completed a six-month part-time Full Stack[...]
+Fourth-year Computer Science student at the Royal University of Phnom Penh with a strong interest in software development and web application development. Completed a six-month part-time Full Stack Web Development program at ISTAD in 2025, gaining practical experience in building web applications. Through academic and personal projects, I have developed hands-on experience applying software development concepts to real-world problems.
 
 
 # 💻 Tech Stack:
